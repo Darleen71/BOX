@@ -6,6 +6,7 @@ int main(){
     cout << "new" << endl;
     cout << "hello git!!!!!!" << endl;
     cout << "hello git!!!!!!" << endl;
+    cout << "again" << endl;
     system("pause");
     return 0;
 }
